@@ -185,7 +185,7 @@ function nonFriends(name, array) {
     
 
     }
-    return notFriends;
+    return peeps;
 
 }
 
